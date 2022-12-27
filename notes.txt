@@ -1,0 +1,11 @@
+Game Design
+
+
+Player Experience:
+- Relaxing
+
+Core Meshanic:
+- Drive over pickups
+
+Game Loop:
+- Find and deliver all packages to Win
